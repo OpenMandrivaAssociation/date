@@ -12,8 +12,8 @@
 %global __requires_exclude cmake\(\)
 
 Name:           date
-Version:        2.4.1
-Release:        1%{?gitrel}%{?dist}
+Version:        3.0.1
+Release:        1%{?gitrel}%{?dist}1
 Summary:        Date and time library based on the C++11/14/17 <chrono> header
 
 License:        MIT
